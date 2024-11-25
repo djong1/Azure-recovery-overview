@@ -9,10 +9,10 @@ bla
 
 bla
 
-##best effort - disclaimer
+## Best effort - disclaimer
 The information is shared on best effeort basis and might be incomplete or not up-to-date. Alway's use it as a starting point and validate the information provided here
 
 
-##questions and remarks:
+## Questions and remarks:
 
 Please submit an issue if you find things for improvement or things are not correct.
