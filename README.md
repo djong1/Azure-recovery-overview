@@ -24,11 +24,12 @@ This information is provided on a best-effort basis and may not be complete or a
 ## Feedback
 We welcome your feedback and suggestions! Please submit any issues or feature requests through Issues or discussions.
 
-## Questions and remarks:
-
-Please submit an issue if you find things for improvement or things are not correct.
-
-## changes
+## change list
 1.2 splitted azure files recovery in multiple components (account, share, file)
 1.1 added non paired cross region recovery
 1.0 initial document
+
+## cotributors
+[Jochen van Wylick] (https://www.linkedin.com/in/jochen-van-wylick-26209325/?originalSubdomain=nl)
+[Naveen Kumar](https://www.linkedin.com/in/selvarajnaveenkumar/)
+[Dylan de Jong](https://www.linkedin.com/in/dylandejong/)
