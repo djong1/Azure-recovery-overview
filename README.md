@@ -15,6 +15,7 @@ This initiative addresses the lack of a centralized Azure documentation resource
 
 This repository presents an Azure Service vs. Backup Capability matrix, offering clear insights on backing up Azure services, ensuring immutability, and implementing effective recovery orchestration. It empowers Azure service consumers to make informed decisions by highlighting the backup and immutability features across various Azure services, enabling optimal service configuration to meet specific requirements. By sharing this resource, we aim to empower stakeholders to navigate these requirements. As Azure evolves, we’ve ensured this effort reflects a best-effort interpretation of the most current Azure documentation.
 
+![image](https://github.com/user-attachments/assets/dc455d27-1ca0-4d23-aded-6293b73e2c0a)
 
 ## Azure Backup
 The Excel file details the backup capabilities of different Azure services, including whether they store consumer data, have backup features, and can achieve immutability. It also covers various recovery scenarios such as same subscription recovery, cross-subscription recovery, paired region recovery, and non-paired region recovery.
