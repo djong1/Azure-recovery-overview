@@ -8,6 +8,9 @@ This initiative was undertaken because there is no central location in Azure doc
 ## Azure Backup
 The Excel file details the backup capabilities of different Azure services, including whether they store consumer data, have backup features, and can achieve immutability. It also covers various recovery scenarios such as same subscription recovery, cross-subscription recovery, paired region recovery, and non-paired region recovery.
 
+![image](https://github.com/user-attachments/assets/dc455d27-1ca0-4d23-aded-6293b73e2c0a)
+
+
 ## Azure immutability
 Immutability is a critical feature for protecting against malicious deletion or configuration changes. The file provides information on whether immutability can be achieved for each Azure service and the maximum data retention period.
 
@@ -24,12 +27,12 @@ This information is provided on a best-effort basis and may not be complete or a
 ## Feedback
 We welcome your feedback and suggestions! Please submit any issues or feature requests through Issues or discussions.
 
-## change list
+## Change list
 1.2 splitted azure files recovery in multiple components (account, share, file)
 1.1 added non paired cross region recovery
 1.0 initial document
 
-## cotributors
+## Contributors
 [Jochen van Wylick](https://www.linkedin.com/in/jochen-van-wylick-26209325/?originalSubdomain=nl).
 [Naveen Kumar](https://www.linkedin.com/in/selvarajnaveenkumar/).
 [Nikita Dandwani](https://www.linkedin.com/in/nikita-dandwani-3680b856/).
