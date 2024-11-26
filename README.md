@@ -29,7 +29,7 @@ We welcome your feedback and suggestions! Please submit any issues or feature re
 1.1 added non paired cross region recovery
 1.0 initial document
 
-## cotributors
+## contributors
 [Jochen van Wylick](https://www.linkedin.com/in/jochen-van-wylick-26209325/?originalSubdomain=nl).
 [Naveen Kumar](https://www.linkedin.com/in/selvarajnaveenkumar/).
 [Nikita Dandwani](https://www.linkedin.com/in/nikita-dandwani-3680b856/).
