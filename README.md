@@ -32,5 +32,6 @@ We welcome your feedback and suggestions! Please submit any issues or feature re
 ## cotributors
 [Jochen van Wylick](https://www.linkedin.com/in/jochen-van-wylick-26209325/?originalSubdomain=nl).
 [Naveen Kumar](https://www.linkedin.com/in/selvarajnaveenkumar/).
+[Nikita Dandwani](https://www.linkedin.com/in/nikita-dandwani-3680b856/).
 [Dylan de Jong](https://www.linkedin.com/in/dylandejong/).
 
