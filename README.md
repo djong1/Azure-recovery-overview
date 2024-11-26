@@ -30,7 +30,7 @@ We welcome your feedback and suggestions! Please submit any issues or feature re
 1.0 initial document
 
 ## cotributors
-[Jochen van Wylick] (https://www.linkedin.com/in/jochen-van-wylick-26209325/?originalSubdomain=nl).
+[Jochen van Wylick](https://www.linkedin.com/in/jochen-van-wylick-26209325/?originalSubdomain=nl).
 [Naveen Kumar](https://www.linkedin.com/in/selvarajnaveenkumar/).
 [Dylan de Jong](https://www.linkedin.com/in/dylandejong/).
 
